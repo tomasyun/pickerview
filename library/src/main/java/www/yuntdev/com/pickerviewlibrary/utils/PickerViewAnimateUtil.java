@@ -1,8 +1,8 @@
-package www.yuntdev.com.library.utils;
+package www.yuntdev.com.pickerviewlibrary.utils;
 
 import android.view.Gravity;
 
-import www.yuntdev.com.library.R;
+import www.yuntdev.com.pickerviewlibrary.R;
 
 /**
  * Created by Sai on 15/8/9.

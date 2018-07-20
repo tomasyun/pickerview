@@ -1,4 +1,4 @@
-package www.yuntdev.com.library.view;
+package www.yuntdev.com.pickerviewlibrary.view;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -15,9 +15,9 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.FrameLayout;
 
-import www.yuntdev.com.library.R;
-import www.yuntdev.com.library.listener.OnDismissListener;
-import www.yuntdev.com.library.utils.PickerViewAnimateUtil;
+import www.yuntdev.com.pickerviewlibrary.R;
+import www.yuntdev.com.pickerviewlibrary.listener.OnDismissListener;
+import www.yuntdev.com.pickerviewlibrary.utils.PickerViewAnimateUtil;
 
 public class BasePickerView {
     private final FrameLayout.LayoutParams params = new FrameLayout.LayoutParams(

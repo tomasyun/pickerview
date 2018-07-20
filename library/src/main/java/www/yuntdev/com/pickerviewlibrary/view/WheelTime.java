@@ -1,4 +1,4 @@
-package www.yuntdev.com.library.view;
+package www.yuntdev.com.pickerviewlibrary.view;
 
 import android.view.View;
 
@@ -8,13 +8,13 @@ import java.util.Arrays;
 import java.util.Calendar;
 import java.util.List;
 
-import www.yuntdev.com.library.R;
-import www.yuntdev.com.library.adapter.ArrayWheelAdapter;
-import www.yuntdev.com.library.adapter.NumericWheelAdapter;
-import www.yuntdev.com.library.lib.WheelView;
-import www.yuntdev.com.library.listener.OnItemSelectedListener;
-import www.yuntdev.com.library.utils.ChinaDate;
-import www.yuntdev.com.library.utils.LunarCalendar;
+import www.yuntdev.com.pickerviewlibrary.R;
+import www.yuntdev.com.pickerviewlibrary.adapter.ArrayWheelAdapter;
+import www.yuntdev.com.pickerviewlibrary.adapter.NumericWheelAdapter;
+import www.yuntdev.com.pickerviewlibrary.lib.WheelView;
+import www.yuntdev.com.pickerviewlibrary.listener.OnItemSelectedListener;
+import www.yuntdev.com.pickerviewlibrary.utils.ChinaDate;
+import www.yuntdev.com.pickerviewlibrary.utils.LunarCalendar;
 
 public class WheelTime {
     public static DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");

@@ -1,14 +1,14 @@
-package www.yuntdev.com.library.view;
+package www.yuntdev.com.pickerviewlibrary.view;
 
 import android.graphics.Typeface;
 import android.view.View;
 
 import java.util.List;
 
-import www.yuntdev.com.library.R;
-import www.yuntdev.com.library.adapter.ArrayWheelAdapter;
-import www.yuntdev.com.library.lib.WheelView;
-import www.yuntdev.com.library.listener.OnItemSelectedListener;
+import www.yuntdev.com.pickerviewlibrary.R;
+import www.yuntdev.com.pickerviewlibrary.adapter.ArrayWheelAdapter;
+import www.yuntdev.com.pickerviewlibrary.lib.WheelView;
+import www.yuntdev.com.pickerviewlibrary.listener.OnItemSelectedListener;
 
 public class WheelOptions<T> {
     private View view;

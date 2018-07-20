@@ -1,4 +1,4 @@
-package www.yuntdev.com.library;
+package www.yuntdev.com.pickerviewlibrary;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -13,10 +13,10 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import www.yuntdev.com.library.lib.WheelView;
-import www.yuntdev.com.library.listener.CustomListener;
-import www.yuntdev.com.library.view.BasePickerView;
-import www.yuntdev.com.library.view.WheelOptions;
+import www.yuntdev.com.pickerviewlibrary.lib.WheelView;
+import www.yuntdev.com.pickerviewlibrary.listener.CustomListener;
+import www.yuntdev.com.pickerviewlibrary.view.BasePickerView;
+import www.yuntdev.com.pickerviewlibrary.view.WheelOptions;
 
 public class OptionsPickerView<T> extends BasePickerView implements View.OnClickListener {
 

@@ -1,4 +1,4 @@
-package www.yuntdev.com.library.lib;
+package www.yuntdev.com.pickerviewlibrary.lib;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -22,10 +22,10 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
 
-import www.yuntdev.com.library.R;
-import www.yuntdev.com.library.adapter.WheelAdapter;
-import www.yuntdev.com.library.listener.OnItemSelectedListener;
-import www.yuntdev.com.library.model.IPickerViewData;
+import www.yuntdev.com.pickerviewlibrary.R;
+import www.yuntdev.com.pickerviewlibrary.adapter.WheelAdapter;
+import www.yuntdev.com.pickerviewlibrary.listener.OnItemSelectedListener;
+import www.yuntdev.com.pickerviewlibrary.model.IPickerViewData;
 
 public class WheelView extends View {
 

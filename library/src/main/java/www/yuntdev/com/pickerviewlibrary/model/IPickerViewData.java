@@ -1,4 +1,4 @@
-package www.yuntdev.com.library.model;
+package www.yuntdev.com.pickerviewlibrary.model;
 
 /**
  * Created by Sai on 2016/7/13.

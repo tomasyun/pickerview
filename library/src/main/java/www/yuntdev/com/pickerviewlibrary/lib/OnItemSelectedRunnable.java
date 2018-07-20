@@ -1,4 +1,4 @@
-package www.yuntdev.com.library.lib;
+package www.yuntdev.com.pickerviewlibrary.lib;
 
 final class OnItemSelectedRunnable implements Runnable {
     final WheelView loopView;

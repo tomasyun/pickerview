@@ -1,4 +1,4 @@
-package www.yuntdev.com.library;
+package www.yuntdev.com.pickerviewlibrary;
 
 import android.content.Context;
 import android.text.TextUtils;
@@ -15,10 +15,10 @@ import java.text.ParseException;
 import java.util.Calendar;
 import java.util.Date;
 
-import www.yuntdev.com.library.lib.WheelView;
-import www.yuntdev.com.library.listener.CustomListener;
-import www.yuntdev.com.library.view.BasePickerView;
-import www.yuntdev.com.library.view.WheelTime;
+import www.yuntdev.com.pickerviewlibrary.lib.WheelView;
+import www.yuntdev.com.pickerviewlibrary.listener.CustomListener;
+import www.yuntdev.com.pickerviewlibrary.view.BasePickerView;
+import www.yuntdev.com.pickerviewlibrary.view.WheelTime;
 
 public class TimePickerView extends BasePickerView implements View.OnClickListener {
     private int layoutRes;
